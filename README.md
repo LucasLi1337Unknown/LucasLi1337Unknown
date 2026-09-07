@@ -2,24 +2,25 @@
 
 ### Student • Developer • Builder • Professional Bug Creator 🐛
 
-I'm **Lucas**, a Grade 7 student who loves programming, building weird projects, experimenting with new technologies, and occasionally creating bugs that make absolutely no sense.
+I'm **Lucas**, a Grade 7 student who enjoys programming, building weird projects, experimenting with technology, and discovering completely new ways to break perfectly functional code.
 
-I mainly work with **C++**, but I enjoy exploring different programming languages and making websites, games, tools, and random experiments.
+I mainly use **C++**, but I also make websites, games, tools, programming-language experiments, and occasionally repositories whose existence cannot be scientifically explained.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I love **programming and building projects**
+- 💻 I love **programming and building random stuff**
 - ♟️ Chess enthusiast
-- 🌐 I make websites and browser experiments
-- 🎮 I enjoy creating games and strange game variants
-- 🧪 I like experimenting with new programming languages
+- 🎮 Creator of games ranging from "actually playable" to "what have I done"
+- 🌐 I make websites because apparently one repository wasn't enough
+- 🧪 I experiment with programming languages
 - 🇨🇳 / 🇬🇧 I speak **Chinese and English**
+- 🐛 Bugs mysteriously appear wherever I go
 - 🏆 GitHub Achievement Hunter
 - 🤠 **Quickdraw** unlocked
 - 🏆 **YOLO** unlocked
-- 🦈 Currently hunting **Pull Shark**
+- 🦈 Currently attempting to summon **Pull Shark**
 
 ---
 
@@ -27,14 +28,16 @@ I mainly work with **C++**, but I enjoy exploring different programming language
 
 ```text
 C++          ████████████████  Main language
-HTML         ████████████      Websites!
-CSS          ██████████        Making HTML less ugly
-JavaScript   █████████         Making HTML do stuff
-Python       ███████           Experiments & tools
-Git          ██████            git commit -m "pls work"
+HTML         ████████████      Websites
+CSS          ██████████        Convincing HTML to stop looking like 1997
+JavaScript   █████████         Making the buttons actually do something
+Python       ███████           When C++ feels like unnecessary suffering
+Git          ██████            git commit -m "PLEASE PLEASE PLEASE WORK"
 ```
 
-And I'm always interested in learning more.
+Still learning.
+
+Unfortunately, the computer is also learning new ways to give me errors.
 
 ---
 
@@ -42,15 +45,21 @@ And I'm always interested in learning more.
 
 I don't really stick to one type of project.
 
-You might find me building:
+You might find:
 
-- ♟️ Chess engines and chess variants
+- ♟️ Chess engines
+- ♟️ Chess variants that chess never asked for
 - 🎮 Browser games
 - 🌐 GitHub Pages websites
 - 🤖 AI experiments
 - 🛠️ Random utilities
-- 🧪 Programming-language experiments
-- 💥 Things that definitely worked five minutes ago
+- 🧪 Programming languages
+- 💥 Things that worked perfectly five minutes ago
+- 📁 `test`
+- 📁 `test2`
+- 📁 `test-final`
+- 📁 `test-final-FINAL`
+- 📁 `test-final-FINAL-actually-working`
 
 ---
 
@@ -66,11 +75,16 @@ int main()
 
     while (!codeWorks)
     {
-        cout << "Why doesn't this work???" << endl;
+        cout << "WHY DOESN'T THIS WORK???" << endl;
+
+        // changes absolutely nothing
+
         codeWorks = true;
     }
 
-    cout << "I HAVE NO IDEA WHY THAT FIXED IT" << endl;
+    cout << "WHY DOES IT WORK NOW???" << endl;
+    cout << "DO NOT TOUCH IT." << endl;
+
     return 0;
 }
 ```
@@ -83,22 +97,27 @@ Current collection:
 
 **🏆 YOLO** · **🤠 Quickdraw**
 
-Next target:
+Current mission:
 
 **🦈 Pull Shark**
 
-> Somehow I got my first achievement when I wasn't even trying to get one.
+Long-term objective:
+
+Collect shiny GitHub badges until my profile looks like a video game inventory.
 
 ---
 
 ## 📈 Current Status
 
 ```text
-Learning       ████████████████████
-Building       ████████████████████
-Experimenting  ████████████████████
-Debugging      ███████████████████████████████
-Giving up      ██
+Learning        ████████████████████
+Building        ████████████████████
+Experimenting   ████████████████████
+Debugging       ███████████████████████████████
+Reading errors  ████████████████████████████████████
+Understanding   ███
+Giving up       ██
+Ctrl + Z        ███████████████████████████████████████
 ```
 
 ---
@@ -111,8 +130,14 @@ Some are useful.
 
 Some are experiments.
 
-And some probably exist because I thought:
+Some were created at 10 PM because my brain suddenly said:
 
 > **"Wait... can I actually make this?"**
 
-Turns out there's only one way to find out. 🚀
+And some answer that question with:
+
+> **"Technically."**
+
+Anyway, welcome to my GitHub.
+
+**Please do not feed the bugs. 🐛**
