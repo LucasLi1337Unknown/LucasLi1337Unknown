@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/lucasverse-banner.svg" alt="The Lucasverse — Lucas, ultrafun user, builder and chess enjoyer" width="100%">
+
 # ENTER THE LUCASVERSE
 
 ### Lucas · Grade 7 developer · Chess enjoyer · Ultrafun user
@@ -15,6 +17,19 @@
 ---
 
 ## Choose your side quest
+
+<table>
+<tr>
+<td width="50%"><a href="https://lucasli1337unknown.github.io/Lucasverse-Auto-Brawl/"><img src="assets/profile-brawl.svg" alt="Pixel Auto Brawl — 12 fighters in a chaotic arena" width="100%"></a></td>
+<td width="50%"><a href="https://lucasli1337unknown.github.io/LiuShuiYan-LAGJJJJ/"><img src="assets/profile-banquet.svg" alt="Liu Shui Yan — Chinese banquet project" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://lucasli1337unknown.github.io/File-Forge/"><img src="assets/profile-forge.svg" alt="File Forge — browser file converter" width="100%"></a></td>
+<td width="50%"><a href="https://github.com/LucasLi1337Unknown/StockFishBattle"><img src="assets/profile-chess.svg" alt="Chess experiments — StockFishBattle" width="100%"></a></td>
+</tr>
+</table>
+
+*Click a picture to enter its project. Illustrations are custom artwork, not gameplay screenshots.*
 
 | Your mission | Enter here | What you will find |
 | --- | --- | --- |
