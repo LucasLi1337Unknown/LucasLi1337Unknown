@@ -1,143 +1,85 @@
-# 👋 Hey, I'm Lucas!
+<div align="center">
 
-### Student • Developer • Builder • Professional Bug Creator 🐛
+# ENTER THE LUCASVERSE
 
-I'm **Lucas**, a Grade 7 student who enjoys programming, building weird projects, experimenting with technology, and discovering completely new ways to break perfectly functional code.
+### Lucas · Grade 7 developer · Chess enjoyer · Ultrafun user
 
-I mainly use **C++**, but I also make websites, games, tools, programming-language experiments, and occasionally repositories whose existence cannot be scientifically explained.
+**Useful tools. Strange games. Ideas that escaped supervision.**
 
----
+[Explore the Hub](https://lucasli1337unknown.github.io/LucasverseHub/) · [Browse my repos](https://github.com/LucasLi1337Unknown?tab=repositories) · [Enter the pixel arena](https://lucasli1337unknown.github.io/Lucasverse-Auto-Brawl/)
 
-## 🚀 About Me
+**Last updated: 11 October 2026 · Shanghai time**
 
-- 💻 I love **programming and building random stuff**
-- ♟️ Chess enthusiast
-- 🎮 Creator of games ranging from "actually playable" to "what have I done"
-- 🌐 I make websites because apparently one repository wasn't enough
-- 🧪 I experiment with programming languages
-- 🇨🇳 / 🇬🇧 I speak **Chinese and English**
-- 🐛 Bugs mysteriously appear wherever I go
-- 🏆 GitHub Achievement Hunter
-- 🤠 **Quickdraw** unlocked
-- 🏆 **YOLO** unlocked
-- 🦈 Currently attempting to summon **Pull Shark**
+</div>
 
 ---
 
-## 🛠️ Languages & Technologies
+## Choose your side quest
 
-```text
-C++          ████████████████  Main language
-HTML         ████████████      Websites
-CSS          ██████████        Convincing HTML to stop looking like 1997
-JavaScript   █████████         Making the buttons actually do something
-Python       ███████           When C++ feels like unnecessary suffering
-Git          ██████            git commit -m "PLEASE PLEASE PLEASE WORK"
-```
+| Your mission | Enter here | What you will find |
+| --- | --- | --- |
+| Figure out what this account even is | [LucasverseHub](https://lucasli1337unknown.github.io/LucasverseHub/) | The front door to my collection of useful and weird projects. |
+| Get hungry while browsing GitHub | [流水宴 · LiuShuiYan](https://lucasli1337unknown.github.io/LiuShuiYan-LAGJJJJ/) | A Chinese banquet project with 30 dishes, menu planning, reservations, and real reviews. Looking at the food does not count as lunch. |
+| Watch 12 characters settle absolutely nothing | [Lucasverse Auto Brawl](https://lucasli1337unknown.github.io/Lucasverse-Auto-Brawl/) | Automatic pixel battles, unique skills, and seeded rematches. Bro Council has suspicious main-character energy. |
+| Make a file change careers | [File Forge](https://lucasli1337unknown.github.io/File-Forge/) | Browser file conversion, including MP4-to-Word storyboards. Yes, that combination exists. |
+| Investigate my chess experiments | [StockFishBattle](https://github.com/LucasLi1337Unknown/StockFishBattle) | A repository for when ordinary chess apparently wasn't enough. |
 
-Still learning.
+## Meet the person behind the commits
 
-Unfortunately, the computer is also learning new ways to give me errors.
+I'm **Lucas**. I build websites, browser games, tools, AI experiments, and programming-language experiments. **C++ is my main language**; HTML, CSS, JavaScript, and Python help the other ideas escape.
 
----
+I speak **Chinese and English**, enjoy learning French, and like **1.d4 and the London System**. My repositories do not share the London System's reputation for being calm.
 
-## 🔥 What I Like Building
+My favorite project pipeline:
 
-I don't really stick to one type of project.
+**Interesting idea → working prototype → another idea → why are there now twelve characters fighting?**
 
-You might find:
+## Skills, translated into normal human language
 
-- ♟️ Chess engines
-- ♟️ Chess variants that chess never asked for
-- 🎮 Browser games
-- 🌐 GitHub Pages websites
-- 🤖 AI experiments
-- 🛠️ Random utilities
-- 🧪 Programming languages
-- 💥 Things that worked perfectly five minutes ago
-- 📁 `test`
-- 📁 `test2`
-- 📁 `test-final`
-- 📁 `test-final-FINAL`
-- 📁 `test-final-FINAL-actually-working`
+| Tool | What I use it for |
+| --- | --- |
+| C++ | Solving problems. Occasionally becoming the problem. |
+| HTML + CSS | Giving an idea a home and convincing it to fit on a phone. |
+| JavaScript | Making buttons do more than look available. |
+| Python | Getting the computer to do the repetitive part. |
+| Git + GitHub | Preserving evidence of what worked before the next experiment. |
 
----
+<details>
+<summary><b>🎒 Open my achievement inventory</b></summary>
 
-## 🧑‍💻 My Coding Philosophy
+**Unlocked:** YOLO · Quickdraw  
+**Quest in progress:** Pull Shark
 
-```cpp
-#include <iostream>
-using namespace std;
+The goal is to make this profile look increasingly like a game inventory.
 
-int main()
-{
-    bool codeWorks = false;
+</details>
 
-    while (!codeWorks)
-    {
-        cout << "WHY DOESN'T THIS WORK???" << endl;
+<details>
+<summary><b>♟️ Inspect the emergency chess vocabulary</b></summary>
 
-        // changes absolutely nothing
+**forkidy fork:** a chess fork, with bonus use as a dramatic expression of frustration.
 
-        codeWorks = true;
-    }
+If your king and queen are both under attack, the vocabulary lesson has become practical.
 
-    cout << "WHY DOES IT WORK NOW???" << endl;
-    cout << "DO NOT TOUCH IT." << endl;
+</details>
 
-    return 0;
-}
-```
+<details>
+<summary><b>🧪 Press the suspiciously labeled button</b></summary>
 
----
+You have discovered the imaginary Lucasverse quality-control department.
 
-## 🏆 GitHub Achievements
+- Does it work? Test it.
+- Is it useful? Good.
+- Is it funny? Also good.
+- Can it be both? That's the quest.
+- Did Bro Council win again? Request an investigation.
 
-Current collection:
+No actual button was harmed. This is a README.
 
-**🏆 YOLO** · **🤠 Quickdraw**
+</details>
 
-Current mission:
+## Visitor instructions
 
-**🦈 Pull Shark**
+Try a project. Explore the code. If something breaks, an issue with **what happened, what you expected, and how to reproduce it** is much more useful than a mysterious “bro it died.”
 
-Long-term objective:
-
-Collect shiny GitHub badges until my profile looks like a video game inventory.
-
----
-
-## 📈 Current Status
-
-```text
-Learning        ████████████████████
-Building        ████████████████████
-Experimenting   ████████████████████
-Debugging       ███████████████████████████████
-Reading errors  ████████████████████████████████████
-Understanding   ███
-Giving up       ██
-Ctrl + Z        ███████████████████████████████████████
-```
-
----
-
-## 👀 Thanks for visiting!
-
-Feel free to explore my repositories.
-
-Some are useful.
-
-Some are experiments.
-
-Some were created at 10 PM because my brain suddenly said:
-
-> **"Wait... can I actually make this?"**
-
-And some answer that question with:
-
-> **"Technically."**
-
-Anyway, welcome to my GitHub.
-
-**Please do not feed the bugs. 🐛**
+**Welcome to my GitHub. Your next side quest is one click away.**
